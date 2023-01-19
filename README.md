@@ -19,3 +19,7 @@ macromolecule (commonly a protein) can have an effect on the activity of that ma
 
 1. GCL_allosteric_responses.ipynb replicates the work of Stern et al. (2021)
 2. GPC_allosteric_responses.ipynb implements our own learning rule (GPC)
+
+Cite as:
+
+P. Z. Collis, “Computation in Physical Media: Investigating Biologically-Plausible Learning in Visco-Elastic Materials via Predictive Coding,” M.S. thesis, Dept. of Eng. and Inf., Univ. of Sussex, Falmer, Brighton, 2022. [online].
