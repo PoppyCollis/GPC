@@ -17,3 +17,5 @@ We attempt to replicate the initial task undertaken by Stern et al. (2021) using
 The concept of allostery arises from biology, referring to the regulatory phenomenon by which the binding of a molecule locally to a site on a
 macromolecule (commonly a protein) can have an effect on the activity of that macromolecule at a distal site. This is usually caused by the coupling of conformational changes in the protein (Motlagh et al., 2014).
 
+1. GCL_allosteric_responses.ipynb replicates the work of Stern et al. (2021)
+2. GPC_allosteric_responses.ipynb implements our own learning rule (GPC)
